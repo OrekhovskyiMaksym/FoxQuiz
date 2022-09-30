@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/FoxQuiz/static/css/main.d4a85ac3.css",
+    "main.js": "/FoxQuiz/static/js/main.af5b93ef.js",
+    "static/css/855.5a7c506d.chunk.css": "/FoxQuiz/static/css/855.5a7c506d.chunk.css",
+    "static/js/855.4d86975b.chunk.js": "/FoxQuiz/static/js/855.4d86975b.chunk.js",
+    "static/css/645.4a684725.chunk.css": "/FoxQuiz/static/css/645.4a684725.chunk.css",
+    "static/js/645.29ebf006.chunk.js": "/FoxQuiz/static/js/645.29ebf006.chunk.js",
+    "static/css/493.a555c45f.chunk.css": "/FoxQuiz/static/css/493.a555c45f.chunk.css",
+    "static/js/493.6df9c0ed.chunk.js": "/FoxQuiz/static/js/493.6df9c0ed.chunk.js",
+    "static/css/83.bad385ac.chunk.css": "/FoxQuiz/static/css/83.bad385ac.chunk.css",
+    "static/js/83.d523fdaf.chunk.js": "/FoxQuiz/static/js/83.d523fdaf.chunk.js",
+    "static/js/787.2b0bd88f.chunk.js": "/FoxQuiz/static/js/787.2b0bd88f.chunk.js",
+    "static/js/615.80e573f2.chunk.js": "/FoxQuiz/static/js/615.80e573f2.chunk.js",
+    "static/js/208.1829ac23.chunk.js": "/FoxQuiz/static/js/208.1829ac23.chunk.js",
+    "static/media/user.jpg": "/FoxQuiz/static/media/user.8e7ab55da0bc52271ed8.jpg",
+    "static/media/spinner.svg": "/FoxQuiz/static/media/spinner.0a5f0db6daa87286275acc9bfe8e5fd8.svg",
+    "index.html": "/FoxQuiz/index.html",
+    "main.d4a85ac3.css.map": "/FoxQuiz/static/css/main.d4a85ac3.css.map",
+    "main.af5b93ef.js.map": "/FoxQuiz/static/js/main.af5b93ef.js.map",
+    "855.5a7c506d.chunk.css.map": "/FoxQuiz/static/css/855.5a7c506d.chunk.css.map",
+    "855.4d86975b.chunk.js.map": "/FoxQuiz/static/js/855.4d86975b.chunk.js.map",
+    "645.4a684725.chunk.css.map": "/FoxQuiz/static/css/645.4a684725.chunk.css.map",
+    "645.29ebf006.chunk.js.map": "/FoxQuiz/static/js/645.29ebf006.chunk.js.map",
+    "493.a555c45f.chunk.css.map": "/FoxQuiz/static/css/493.a555c45f.chunk.css.map",
+    "493.6df9c0ed.chunk.js.map": "/FoxQuiz/static/js/493.6df9c0ed.chunk.js.map",
+    "83.bad385ac.chunk.css.map": "/FoxQuiz/static/css/83.bad385ac.chunk.css.map",
+    "83.d523fdaf.chunk.js.map": "/FoxQuiz/static/js/83.d523fdaf.chunk.js.map",
+    "787.2b0bd88f.chunk.js.map": "/FoxQuiz/static/js/787.2b0bd88f.chunk.js.map",
+    "615.80e573f2.chunk.js.map": "/FoxQuiz/static/js/615.80e573f2.chunk.js.map",
+    "208.1829ac23.chunk.js.map": "/FoxQuiz/static/js/208.1829ac23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a85ac3.css",
+    "static/js/main.af5b93ef.js"
+  ]
+}
